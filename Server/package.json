@@ -1,0 +1,17 @@
+{
+  "name": "2wayssl",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0",
+    "tls": "^0.0.1"
+  }
+}
